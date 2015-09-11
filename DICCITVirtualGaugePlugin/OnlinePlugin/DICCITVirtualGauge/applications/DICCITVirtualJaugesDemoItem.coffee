@@ -10,7 +10,7 @@ class DICCITVirtualJaugesDemoItem extends TreeItem
             txt: "Jauge Virtuelle"
             demo_app : "DICCITVirtualJaugesDemoItem"
             directory : "DICCITVirtualJauges"
-            video_link : undefined
+            video_link : '<iframe width="853" height="480" src="https://www.youtube.com/embed/RLtYI3v2BgQ?rel=0" frameborder="0" allowfullscreen></iframe>'
             tutorial_link : undefined
             publication_link : undefined
 
